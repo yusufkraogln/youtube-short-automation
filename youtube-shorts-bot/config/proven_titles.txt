@@ -1,0 +1,5 @@
+# Kanalınızda gerçekten iyi performans göstermiş başlıkları buraya birer satır olarak ekleyin.
+# '#' ile başlayan satırlar yorum sayılır ve göz ardı edilir.
+# Bu dosya boşsa metadata_writer.py örneksiz (few-shot olmadan) başlık üretir.
+#
+# Örnek:

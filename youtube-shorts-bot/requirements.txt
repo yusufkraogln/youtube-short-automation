@@ -1,0 +1,13 @@
+yt-dlp>=2024.12.13
+faster-whisper>=1.1.0
+google-genai>=0.3.0
+python-dotenv>=1.0.1
+PyYAML>=6.0.2
+Pillow>=10.4.0
+streamlit>=1.38.0
+
+# Opsiyonel: src/uploader.py (YouTube Data API v3 yükleme) için gerekir.
+# Sadece config.yaml'da upload.enabled: true yapacaksanız kurmanız yeterli.
+google-api-python-client>=2.149.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.1
